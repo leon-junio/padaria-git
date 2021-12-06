@@ -1,0 +1,18 @@
+----------------------------------------- 
+-------------NOTA FISCAL----------------- 
+Nome cliente: João Inacio Moreira
+Nome funcionario: Enzo Paulo Tiago Fogaça
+Produtos : Pão de Doce qtd 12
+Chocolate Quente qtd 2
+Suco de uva qtd 5
+Total: 19.6
+Troco: 0,4
+Recebido 20.0
+Tipo de pagamento: Dinheiro 
+NOTA: 1650615
+ID fiscal: 49
+Data: Mon Nov 25 22:54:40 BRST 2019
+PADARIA MARTINS CNPJ 001239494-15 
+Tel(33)99977-5898 padmartins@gmail.com 
+-------------LEON SYSTEMS--------------- 
+----------------------------------------

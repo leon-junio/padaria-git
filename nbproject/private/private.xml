@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Sistema_Padaria/src/forms/FormRealizarVendas.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/View_Venda.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/FormIngredientes.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/Tela_Venda.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/Login.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/Admnistrador.java</file>
+            <file>file:/E:/Sistema_Padaria/src/dao/DAOCardapio.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/FormClientes.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/FormProdutos.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/FormReceitas.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/FormCardapios.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/Form_Principal.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/Estoque.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/FormVisualizarVendas.java</file>
+            <file>file:/E:/Sistema_Padaria/src/dao/Conexao.java</file>
+            <file>file:/E:/Sistema_Padaria/src/dao/DAOFuncionario.java</file>
+            <file>file:/E:/Sistema_Padaria/src/dao/DAOReceita.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/Form_Producao.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/FormFornecedores.java</file>
+            <file>file:/E:/Sistema_Padaria/src/forms/Financeiro.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,17 @@
+----------------------------------------- 
+-------------NOTA FISCAL----------------- 
+Nome cliente: João Inacio Moreira
+Nome funcionario: Enzo Paulo Tiago Fogaça
+Produtos : Pão de Sal qtd 2
+Brigadeiro qtd 3
+Total: 4.6
+Troco: 0,4
+Recebido 5.0
+Tipo de pagamento: Dinheiro 
+NOTA: 1650613
+ID fiscal: 45
+Data: Mon Nov 25 00:03:17 BRST 2019
+PADARIA MARTINS CNPJ 001239494-15 
+Tel(33)99977-5898 padmartins@gmail.com 
+-------------LEON SYSTEMS--------------- 
+----------------------------------------

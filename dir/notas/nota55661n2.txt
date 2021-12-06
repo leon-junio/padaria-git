@@ -1,0 +1,21 @@
+----------------------------------------- 
+-------------NOTA FISCAL----------------- 
+Nome cliente: Calebe Benício Nunes
+Nome funcionario: Emanuelly Fátima Aparício
+Produtos : Pão de Doce qtd 22
+Sonho qtd 15
+Bolinho qtd 5
+Pão de Doce qtd 22
+Sonho qtd 15
+Bolinho qtd 5
+Total: 57.0
+Troco: 0
+Recebido 57.0
+Tipo de pagamento: Cartão de credito 
+NOTA: 55661
+ID fiscal: 4
+Data: Thu Nov 21 00:32:43 BRST 2019
+PADARIA MARTINS CNPJ 001239494-15 
+Tel(33)99977-5898 padmartins@gmail.com 
+-------------LEON SYSTEMS--------------- 
+----------------------------------------

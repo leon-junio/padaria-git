@@ -1,0 +1,15 @@
+----------------------------------------- 
+-------------NOTA FISCAL----------------- 
+Nome cliente: Luiza Giovana Isis Moura
+Nome funcionario: Andreia Elza Daiane Castro
+Produtos : Café qtd 1
+Total: 0.5
+Troco: 6,5
+Recebido 7.0
+NOTA: 1123
+ID fiscal: 8
+Data: Wed Nov 20 21:06:16 BRST 2019
+PADARIA MARTINS CNPJ 001239494-15 
+Tel(33)99977-5898 padmartins@gmail.com 
+-------------LEON SYSTEMS--------------- 
+----------------------------------------

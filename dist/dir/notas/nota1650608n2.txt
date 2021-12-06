@@ -1,0 +1,16 @@
+----------------------------------------- 
+-------------NOTA FISCAL----------------- 
+Nome cliente: Fabiana Helena Marlene da Rocha
+Nome funcionario: Andreia Elza Daiane Castro
+Produtos : Achocolatado qtd 1
+Pão com presunto qtd 2
+Total: 7.1
+Troco: 0,9
+Recebido 8.0
+NOTA: 1650608
+ID fiscal: 36
+Data: Wed Nov 20 21:03:12 BRST 2019
+PADARIA MARTINS CNPJ 001239494-15 
+Tel(33)99977-5898 padmartins@gmail.com 
+-------------LEON SYSTEMS--------------- 
+----------------------------------------

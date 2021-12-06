@@ -1,0 +1,15 @@
+----------------------------------------- 
+-------------NOTA FISCAL----------------- 
+Nome cliente: Melissa Renata Allana Lopes
+Nome funcionario: Enzo Paulo Tiago Fogaça
+Produtos : Total: 21.25
+Troco: 0,75
+Recebido 22.0
+Tipo de pagamento: Dinheiro 
+NOTA: 1650612
+ID fiscal: 44
+Data: Sun Nov 24 23:59:01 BRST 2019
+PADARIA MARTINS CNPJ 001239494-15 
+Tel(33)99977-5898 padmartins@gmail.com 
+-------------LEON SYSTEMS--------------- 
+----------------------------------------

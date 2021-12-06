@@ -1,0 +1,16 @@
+----------------------------------------- 
+-------------NOTA FISCAL----------------- 
+Nome cliente: João Inacio Moreira
+Nome funcionario: Enzo Paulo Tiago Fogaça
+Produtos : Biscoito de Goma qtd 2
+Total: 1.5
+Troco: 0,5
+Recebido 2.0
+Tipo de pagamento: Dinheiro 
+NOTA: 1650611
+ID fiscal: 43
+Data: Sun Nov 24 23:24:43 BRST 2019
+PADARIA MARTINS CNPJ 001239494-15 
+Tel(33)99977-5898 padmartins@gmail.com 
+-------------LEON SYSTEMS--------------- 
+----------------------------------------

@@ -1,0 +1,15 @@
+----------------------------------------- 
+-------------NOTA FISCAL----------------- 
+Nome cliente: Alan Walker da Silva
+Nome funcionario: Márcio Ian Silva
+Produtos : Café qtd 1
+Total: 14.25
+Troco: -13,25
+Recebido 1.0
+NOTA: 91929
+ID fiscal: 14
+Data: Wed Nov 20 21:01:34 BRST 2019
+PADARIA MARTINS CNPJ 001239494-15 
+Tel(33)99977-5898 padmartins@gmail.com 
+-------------LEON SYSTEMS--------------- 
+----------------------------------------

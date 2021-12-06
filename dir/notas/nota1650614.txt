@@ -1,0 +1,18 @@
+----------------------------------------- 
+-------------NOTA FISCAL----------------- 
+Nome cliente: Rafael Yuri Ramos
+Nome funcionario: Enzo Paulo Tiago Fogaça
+Produtos : Biscoito de Goma qtd 11
+Biscoito de polvilho qtd 4
+Rosca de doce qtd 2
+Total: 31.1
+Troco: 0
+Recebido 31.1
+Tipo de pagamento: Cartão de Débito 
+NOTA: 1650614
+ID fiscal: 46
+Data: Mon Nov 25 00:04:46 BRST 2019
+PADARIA MARTINS CNPJ 001239494-15 
+Tel(33)99977-5898 padmartins@gmail.com 
+-------------LEON SYSTEMS--------------- 
+----------------------------------------

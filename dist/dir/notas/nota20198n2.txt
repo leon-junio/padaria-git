@@ -1,0 +1,15 @@
+------------------------------------------ 
+-------------NOTA FISCAL 2----------------- 
+Nome cliente: João Inacio Moreira
+Nome funcionario: Heitor Juan Elias Rezende
+Produtos : Total: 2.75
+Troco: 1
+Recebido 3.75
+Tipo de pagamento: dinheiro 
+NOTA: 20198
+ID fiscal: 30
+Data: Sun Nov 24 15:20:09 BRST 2019
+PADARIA MARTINS CNPJ 001239494-15 
+Tel(33)99977-5898 padmartins@gmail.com 
+-------------LEON SYSTEMS---------------- 
+-----------------------------------------

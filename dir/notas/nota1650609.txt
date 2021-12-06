@@ -1,0 +1,16 @@
+----------------------------------------- 
+-------------NOTA FISCAL----------------- 
+Nome cliente: Lana Mariete da Silva
+Nome funcionario: Emanuelly Fátima Aparício
+Produtos : Pastel de presunto qtd 7
+Empada qtd 2
+Total: 31.5
+Troco: 0
+Recebido 31.5
+NOTA: 1650609
+ID fiscal: 37
+Data: Wed Nov 20 21:07:46 BRST 2019
+PADARIA MARTINS CNPJ 001239494-15 
+Tel(33)99977-5898 padmartins@gmail.com 
+-------------LEON SYSTEMS--------------- 
+----------------------------------------
